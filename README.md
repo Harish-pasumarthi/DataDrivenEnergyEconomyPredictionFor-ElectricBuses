@@ -9,6 +9,14 @@ A machine learning-based web application to predict energy consumption of electr
 - Research-backed ML models integrated into a Django web framework
 - Real-time prediction with model accuracy comparison
 
+## OUTPUT SCREENS
+
+![outputscreen](OutputScreens/home.png)
+![outputscreen](OutputScreens/login.png)
+![outputscreen](OutputScreens/output1.png)
+![outputscreen](OutputScreens/output2.png)
+
+
 ## 🛠️ Tech Stack
 
 - **Backend**: Python, Django
