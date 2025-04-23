@@ -1,9 +1,7 @@
-<div align="center">
-  ![electric-bus](https://github.com/user-attachments/assets/d1f1d3d0-625b-4e85-b427-5d2e4a28c805)
-</div>
-
-# ⚡ Data-Driven Energy Economy Prediction for Electric City Buses 🚍
-
+# ⚡ Data-Driven Energy Economy Prediction for Electric City Buses 
+<p align="center">
+  <img src="OutputScreens/electric-bus.gif" alt="electric bus" width="100" style="border-radius: 50%;" />
+</p>
 A machine learning-based web application to predict energy consumption of electric city buses, inspired by research-driven methodologies to enhance sustainability and route planning in smart cities.
 
 ## 📌 Features
